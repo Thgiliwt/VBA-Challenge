@@ -2,6 +2,8 @@
 This is the 2nd homework from my coding bootcamp course
 Within this homework, I am required to use VBA scripting to analyze stock market data. Below are the concepts only within the script and also screenshots from the excuated Excel.xlsm file showing the results of year 2014, 2015 and 2016. For detailed coding contents please check at 'The VBA of Wall Street.vbs' within this repository.
 
+**_NOTE▶️ I did have comments, ', originally within my scripts but as my excel file corrputs I got nothing left. This is very suggested as in the workplace it might take a long time to finish some coding, or you might need to keep coming back to check out the codes, the comments will help you, or other people firstly viewing the scripts to understand it.
+
 Before I started, I firstly had 'option explicit' at the top so I could know if there is any declartion went wrong when running the scripts. I have also create a module for my script.
 
 Step 1 - Understanding about the tasks
